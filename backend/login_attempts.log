@@ -1,0 +1,22 @@
+Username: unknown, Password: unknown, IP: ::1
+Username: 123, Password: 123, IP: ::1
+Username: admin, Password: 1234, IP: ::1
+Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[FAILURE] Login attempt failed! Username: admin, Password: 12, IP: ::1
+[FAILURE] Login attempt failed! Username: admin, Password: 12, IP: ::1
+[FAILURE] Login attempt failed! Username: admin, Password: 12, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[FAILURE] Login attempt failed! Username: guerra, Password: 123, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[FAILURE] Login attempt failed! Username: 2211027, Password: 123, IP: ::1
+[FAILURE] Login attempt failed! Username: 2211027, Password: 123, IP: ::1
+[SUCCESS] Login attempt successfull! Username: admin, Password: 1234, IP: ::1
+[FAILURE] Login attempt failed! Username: admin, Password: 123, IP: ::1
+[FAILURE] Login attempt failed! Username: lucascoisaboa, Password: guerra e brunos coisas mas, IP: ::1
